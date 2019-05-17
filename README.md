@@ -1,4 +1,4 @@
-Fun & fresh doggos
+# ~ Fun & fresh doggos ~
 
 ## Running the app
 Because you totally NEED this app running on your desktop background
